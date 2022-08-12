@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Aug 2022 13:51:53 at https://www.dovotech.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.dovotech.com/ -O1 "C:\Users\xbrey\Downloads\DOVOTECH_SITE\Dovotech" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:52:35	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/t/6/assets/customized-styles.css?2349 (from https://www.dovotech.com/)
+13:52:35	Error: 	"Not Found" (404) at link https://www.dovotech.com/POST (from https://www.dovotech.com/)
+13:53:10	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/198324650_2868898236756990_8325215817140438754_n_bb067ba7-0626-485a-8a0d-143d4fc5f342_{width}x.jpg?v=1641288351 (from https://www.dovotech.com/)
+13:53:26	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/198389893_283456556795450_5236851869529339816_n_2_{width}x.jpg?v=1641286143 (from https://www.dovotech.com/)
+13:53:46	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/3_culori_albastru_2_{width}x.jpg?v=1641566959 (from https://www.dovotech.com/)
+13:54:01	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/3_culori_gri_2_{width}x.jpg?v=1641566959 (from https://www.dovotech.com/)
+13:54:20	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/3_culori_rosu_1_{width}x.jpg?v=1641566959 (from https://www.dovotech.com/)
+13:54:36	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/Genti_alabstru_2_{width}x.jpg?v=1641566960 (from https://www.dovotech.com/)
+13:54:52	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/Genti_gri_2_{width}x.jpg?v=1641566959 (from https://www.dovotech.com/)
+13:55:10	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/Genti_rosu_2_{width}x.jpg?v=1641566959 (from https://www.dovotech.com/)
+13:55:10	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/0620/6695/0393/products/71MFOgnzZlL._AC_SL1500__1_{width}x.jpg?v=1641566958 (from https://www.dovotech.com/)
+13:55:10	Error: 	"Not Found" (404) at link https://www.dovotech.com/collections/POST (from https://www.dovotech.com/collections/rzr-storage-bags-set-of-2)
+13:55:10	Error: 	"Not Found" (404) at link https://www.dovotech.com/products/POST (from https://www.dovotech.com/products/dovotech-rzr-fang-light-kit)
+13:55:11	Error: 	"Not Found" (404) at link https://www.dovotech.com/pages/POST (from https://www.dovotech.com/pages/contact)
+13:55:11	Error: 	"Not Found" (404) at link https://www.dovotech.com/blogs/POST (from https://www.dovotech.com/blogs/news)
+13:55:11	Error: 	"Bad Request" (400) at link https://www.dovotech.com/cart/change?line=1&quantity=0 (from https://www.dovotech.com/cart)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 30 seconds : 193 links scanned, 176 files written (33455970 bytes overall) [32017265 bytes received at 152463 bytes/sec], 2903686 bytes transferred using HTTP compression in 76 files, ratio 25%, 11.0 requests per connection
+(16 errors, 0 warnings, 0 messages)

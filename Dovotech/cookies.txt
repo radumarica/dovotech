@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dovotech.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+shopoe.net	TRUE	/	FALSE	1999999999	cross-site-cookie	name
+shopoe.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.dovotech.com	TRUE	/	FALSE	1999999999	cart	718a52a6fc75fbad66488b9f9b91674b
+www.dovotech.com	TRUE	/	FALSE	1999999999	cart_ts	1660301576
+www.dovotech.com	TRUE	/	FALSE	1999999999	localization	US
+dovotech.com	TRUE	/	FALSE	1999999999	_y	be61e564-0471-45ae-878a-ae3cf45fbce3
+dovotech.com	TRUE	/	FALSE	1999999999	_s	c8bf50dd-76cf-4fcd-aec1-79b843eb36d0
+dovotech.com	TRUE	/	FALSE	1999999999	_shopify_y	be61e564-0471-45ae-878a-ae3cf45fbce3
+www.dovotech.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+dovotech.com	TRUE	/	FALSE	1999999999	_shopify_s	c8bf50dd-76cf-4fcd-aec1-79b843eb36d0
+www.dovotech.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
